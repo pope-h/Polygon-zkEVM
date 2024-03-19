@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PopeCircuit",
+    "protocol": "groth16",
+    "circuit": "PopeCircuit/circuit.circom",
+    "input": "PopeCircuit/input.json",
+    "wasm": "PopeCircuit/out/circuit.wasm",
+    "zkey": "PopeCircuit/out/PopeCircuit.zkey",
+    "vkey": "PopeCircuit/out/PopeCircuit.vkey",
+    "r1cs": "PopeCircuit/out/PopeCircuit.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
